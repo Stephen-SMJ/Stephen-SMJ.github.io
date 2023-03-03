@@ -3,11 +3,11 @@
   <title>小孙不够睡的博客</title>
   
   <subtitle>MyBlog</subtitle>
-  <link href="https://stephen-smj.github.io/atom.xml" rel="self"/>
+  <link href="https://stephen-smj.tech/atom.xml" rel="self"/>
   
-  <link href="https://stephen-smj.github.io/"/>
+  <link href="https://stephen-smj.tech/"/>
   <updated>2023-03-03T07:39:51.941Z</updated>
-  <id>https://stephen-smj.github.io/</id>
+  <id>https://stephen-smj.tech/</id>
   
   <author>
     <name>Sun Maojun</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Nginx反向代理中的深坑</title>
-    <link href="https://stephen-smj.github.io/2023/03/03/Nginx%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E4%B8%AD%E7%9A%84%E6%B7%B1%E5%9D%91/"/>
-    <id>https://stephen-smj.github.io/2023/03/03/Nginx%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E4%B8%AD%E7%9A%84%E6%B7%B1%E5%9D%91/</id>
+    <link href="https://stephen-smj.tech/2023/03/03/Nginx%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E4%B8%AD%E7%9A%84%E6%B7%B1%E5%9D%91/"/>
+    <id>https://stephen-smj.tech/2023/03/03/Nginx%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E4%B8%AD%E7%9A%84%E6%B7%B1%E5%9D%91/</id>
     <published>2023-03-03T10:02:21.000Z</published>
     <updated>2023-03-03T07:39:51.941Z</updated>
     
@@ -34,14 +34,14 @@
     
     
     
-    <category term="Back-end" scheme="https://stephen-smj.github.io/tags/Back-end/"/>
+    <category term="Back-end" scheme="https://stephen-smj.tech/tags/Back-end/"/>
     
   </entry>
   
   <entry>
     <title>Git企业级分支提交流程</title>
-    <link href="https://stephen-smj.github.io/2023/03/01/Git%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%88%86%E6%94%AF%E6%8F%90%E4%BA%A4%E6%B5%81%E7%A8%8B/"/>
-    <id>https://stephen-smj.github.io/2023/03/01/Git%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%88%86%E6%94%AF%E6%8F%90%E4%BA%A4%E6%B5%81%E7%A8%8B/</id>
+    <link href="https://stephen-smj.tech/2023/03/01/Git%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%88%86%E6%94%AF%E6%8F%90%E4%BA%A4%E6%B5%81%E7%A8%8B/"/>
+    <id>https://stephen-smj.tech/2023/03/01/Git%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%88%86%E6%94%AF%E6%8F%90%E4%BA%A4%E6%B5%81%E7%A8%8B/</id>
     <published>2023-03-01T10:02:21.000Z</published>
     <updated>2023-03-03T07:39:51.942Z</updated>
     
@@ -58,14 +58,14 @@
     
     
     
-    <category term="Git" scheme="https://stephen-smj.github.io/tags/Git/"/>
+    <category term="Git" scheme="https://stephen-smj.tech/tags/Git/"/>
     
   </entry>
   
   <entry>
     <title>剑指offer：在排序数组中查找数字I的个数</title>
-    <link href="https://stephen-smj.github.io/2023/03/01/%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E6%95%B0%E5%AD%97I%E7%9A%84%E4%B8%AA%E6%95%B0/"/>
-    <id>https://stephen-smj.github.io/2023/03/01/%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E6%95%B0%E5%AD%97I%E7%9A%84%E4%B8%AA%E6%95%B0/</id>
+    <link href="https://stephen-smj.tech/2023/03/01/%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E6%95%B0%E5%AD%97I%E7%9A%84%E4%B8%AA%E6%95%B0/"/>
+    <id>https://stephen-smj.tech/2023/03/01/%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E6%95%B0%E5%AD%97I%E7%9A%84%E4%B8%AA%E6%95%B0/</id>
     <published>2023-03-01T10:02:21.000Z</published>
     <updated>2023-03-03T07:49:03.144Z</updated>
     
@@ -80,14 +80,14 @@
     
     
     
-    <category term="Algorithms" scheme="https://stephen-smj.github.io/tags/Algorithms/"/>
+    <category term="Algorithms" scheme="https://stephen-smj.tech/tags/Algorithms/"/>
     
   </entry>
   
   <entry>
     <title>手推神经网络前向与反向传播</title>
-    <link href="https://stephen-smj.github.io/2023/02/28/Forward%20Propagation%20and%20Back%20Propagation/"/>
-    <id>https://stephen-smj.github.io/2023/02/28/Forward%20Propagation%20and%20Back%20Propagation/</id>
+    <link href="https://stephen-smj.tech/2023/02/28/Forward%20Propagation%20and%20Back%20Propagation/"/>
+    <id>https://stephen-smj.tech/2023/02/28/Forward%20Propagation%20and%20Back%20Propagation/</id>
     <published>2023-02-28T10:02:21.000Z</published>
     <updated>2023-03-03T07:39:51.945Z</updated>
     
@@ -102,14 +102,14 @@
     
     
     
-    <category term="Deep learning" scheme="https://stephen-smj.github.io/tags/Deep-learning/"/>
+    <category term="Deep learning" scheme="https://stephen-smj.tech/tags/Deep-learning/"/>
     
   </entry>
   
   <entry>
     <title>Npm run serve &amp; build 错误-Error-error:0308010C:digital envelope routines unsupported</title>
-    <link href="https://stephen-smj.github.io/2023/02/20/Npm%20run%20servebuild%20%E9%94%99%E8%AF%AF%EF%BC%9AError%20error0308010Cdigital%20envelope%20routinesunsupported/"/>
-    <id>https://stephen-smj.github.io/2023/02/20/Npm%20run%20servebuild%20%E9%94%99%E8%AF%AF%EF%BC%9AError%20error0308010Cdigital%20envelope%20routinesunsupported/</id>
+    <link href="https://stephen-smj.tech/2023/02/20/Npm%20run%20servebuild%20%E9%94%99%E8%AF%AF%EF%BC%9AError%20error0308010Cdigital%20envelope%20routinesunsupported/"/>
+    <id>https://stephen-smj.tech/2023/02/20/Npm%20run%20servebuild%20%E9%94%99%E8%AF%AF%EF%BC%9AError%20error0308010Cdigital%20envelope%20routinesunsupported/</id>
     <published>2023-02-20T10:02:21.000Z</published>
     <updated>2023-03-03T08:43:38.507Z</updated>
     
@@ -126,14 +126,14 @@
     
     
     
-    <category term="Front-end" scheme="https://stephen-smj.github.io/tags/Front-end/"/>
+    <category term="Front-end" scheme="https://stephen-smj.tech/tags/Front-end/"/>
     
   </entry>
   
   <entry>
     <title>使用Git将项目上传到Github仓库流程</title>
-    <link href="https://stephen-smj.github.io/2023/02/15/%E4%BD%BF%E7%94%A8Git%E5%B0%86%E6%96%B0%E9%A1%B9%E7%9B%AE%E4%B8%8A%E4%BC%A0%E5%88%B0github/"/>
-    <id>https://stephen-smj.github.io/2023/02/15/%E4%BD%BF%E7%94%A8Git%E5%B0%86%E6%96%B0%E9%A1%B9%E7%9B%AE%E4%B8%8A%E4%BC%A0%E5%88%B0github/</id>
+    <link href="https://stephen-smj.tech/2023/02/15/%E4%BD%BF%E7%94%A8Git%E5%B0%86%E6%96%B0%E9%A1%B9%E7%9B%AE%E4%B8%8A%E4%BC%A0%E5%88%B0github/"/>
+    <id>https://stephen-smj.tech/2023/02/15/%E4%BD%BF%E7%94%A8Git%E5%B0%86%E6%96%B0%E9%A1%B9%E7%9B%AE%E4%B8%8A%E4%BC%A0%E5%88%B0github/</id>
     <published>2023-02-15T10:02:21.000Z</published>
     <updated>2023-03-03T07:39:51.938Z</updated>
     
@@ -150,14 +150,14 @@
     
     
     
-    <category term="Git" scheme="https://stephen-smj.github.io/tags/Git/"/>
+    <category term="Git" scheme="https://stephen-smj.tech/tags/Git/"/>
     
   </entry>
   
   <entry>
     <title>如何将你的前端项目上传到Github仓库并且部署到github pages</title>
-    <link href="https://stephen-smj.github.io/2023/02/10/%E5%A6%82%E4%BD%95%E5%B0%86%E4%BD%A0%E7%9A%84%E5%89%8D%E7%AB%AF%E9%A1%B9%E7%9B%AE%E4%B8%8A%E4%BC%A0%E5%88%B0Github%E4%BB%93%E5%BA%93%E5%B9%B6%E4%B8%94%E9%83%A8%E7%BD%B2/"/>
-    <id>https://stephen-smj.github.io/2023/02/10/%E5%A6%82%E4%BD%95%E5%B0%86%E4%BD%A0%E7%9A%84%E5%89%8D%E7%AB%AF%E9%A1%B9%E7%9B%AE%E4%B8%8A%E4%BC%A0%E5%88%B0Github%E4%BB%93%E5%BA%93%E5%B9%B6%E4%B8%94%E9%83%A8%E7%BD%B2/</id>
+    <link href="https://stephen-smj.tech/2023/02/10/%E5%A6%82%E4%BD%95%E5%B0%86%E4%BD%A0%E7%9A%84%E5%89%8D%E7%AB%AF%E9%A1%B9%E7%9B%AE%E4%B8%8A%E4%BC%A0%E5%88%B0Github%E4%BB%93%E5%BA%93%E5%B9%B6%E4%B8%94%E9%83%A8%E7%BD%B2/"/>
+    <id>https://stephen-smj.tech/2023/02/10/%E5%A6%82%E4%BD%95%E5%B0%86%E4%BD%A0%E7%9A%84%E5%89%8D%E7%AB%AF%E9%A1%B9%E7%9B%AE%E4%B8%8A%E4%BC%A0%E5%88%B0Github%E4%BB%93%E5%BA%93%E5%B9%B6%E4%B8%94%E9%83%A8%E7%BD%B2/</id>
     <published>2023-02-10T10:02:21.000Z</published>
     <updated>2023-03-03T08:00:46.743Z</updated>
     
@@ -172,14 +172,14 @@
     
     
     
-    <category term="Git" scheme="https://stephen-smj.github.io/tags/Git/"/>
+    <category term="Git" scheme="https://stephen-smj.tech/tags/Git/"/>
     
   </entry>
   
   <entry>
     <title>一道很考验数据结构与算法的功底的笔试题：用JAVA设计一个缓存结构</title>
-    <link href="https://stephen-smj.github.io/2023/02/10/%E7%94%A8JAVA%E8%AE%BE%E8%AE%A1%E4%B8%80%E4%B8%AA%E7%BC%93%E5%AD%98%E7%BB%93%E6%9E%84/"/>
-    <id>https://stephen-smj.github.io/2023/02/10/%E7%94%A8JAVA%E8%AE%BE%E8%AE%A1%E4%B8%80%E4%B8%AA%E7%BC%93%E5%AD%98%E7%BB%93%E6%9E%84/</id>
+    <link href="https://stephen-smj.tech/2023/02/10/%E7%94%A8JAVA%E8%AE%BE%E8%AE%A1%E4%B8%80%E4%B8%AA%E7%BC%93%E5%AD%98%E7%BB%93%E6%9E%84/"/>
+    <id>https://stephen-smj.tech/2023/02/10/%E7%94%A8JAVA%E8%AE%BE%E8%AE%A1%E4%B8%80%E4%B8%AA%E7%BC%93%E5%AD%98%E7%BB%93%E6%9E%84/</id>
     <published>2023-02-10T08:40:34.000Z</published>
     <updated>2023-02-10T10:49:54.503Z</updated>
     
@@ -195,14 +195,14 @@
     
     
     
-    <category term="JAVA" scheme="https://stephen-smj.github.io/tags/JAVA/"/>
+    <category term="JAVA" scheme="https://stephen-smj.tech/tags/JAVA/"/>
     
   </entry>
   
   <entry>
     <title>解决npm run build 之后生成的index.html页面打开为空</title>
-    <link href="https://stephen-smj.github.io/2023/02/05/%E8%A7%A3%E5%86%B3npm%20run%20build%20%E4%B9%8B%E5%90%8E%E7%94%9F%E6%88%90%E7%9A%84index.html%E9%A1%B5%E9%9D%A2%E6%89%93%E5%BC%80%E4%B8%BA%E7%A9%BA/"/>
-    <id>https://stephen-smj.github.io/2023/02/05/%E8%A7%A3%E5%86%B3npm%20run%20build%20%E4%B9%8B%E5%90%8E%E7%94%9F%E6%88%90%E7%9A%84index.html%E9%A1%B5%E9%9D%A2%E6%89%93%E5%BC%80%E4%B8%BA%E7%A9%BA/</id>
+    <link href="https://stephen-smj.tech/2023/02/05/%E8%A7%A3%E5%86%B3npm%20run%20build%20%E4%B9%8B%E5%90%8E%E7%94%9F%E6%88%90%E7%9A%84index.html%E9%A1%B5%E9%9D%A2%E6%89%93%E5%BC%80%E4%B8%BA%E7%A9%BA/"/>
+    <id>https://stephen-smj.tech/2023/02/05/%E8%A7%A3%E5%86%B3npm%20run%20build%20%E4%B9%8B%E5%90%8E%E7%94%9F%E6%88%90%E7%9A%84index.html%E9%A1%B5%E9%9D%A2%E6%89%93%E5%BC%80%E4%B8%BA%E7%A9%BA/</id>
     <published>2023-02-05T10:02:21.000Z</published>
     <updated>2023-03-03T08:00:46.740Z</updated>
     
@@ -218,14 +218,14 @@
     
     
     
-    <category term="Front-end" scheme="https://stephen-smj.github.io/tags/Front-end/"/>
+    <category term="Front-end" scheme="https://stephen-smj.tech/tags/Front-end/"/>
     
   </entry>
   
   <entry>
     <title>Java循环和Python循环的区别</title>
-    <link href="https://stephen-smj.github.io/2023/02/01/%E3%80%90JAVA%E5%BE%AA%E7%8E%AF%E5%92%8CPython%E5%BE%AA%E7%8E%AF%E7%9A%84%E5%8C%BA%E5%88%AB%E3%80%91/"/>
-    <id>https://stephen-smj.github.io/2023/02/01/%E3%80%90JAVA%E5%BE%AA%E7%8E%AF%E5%92%8CPython%E5%BE%AA%E7%8E%AF%E7%9A%84%E5%8C%BA%E5%88%AB%E3%80%91/</id>
+    <link href="https://stephen-smj.tech/2023/02/01/%E3%80%90JAVA%E5%BE%AA%E7%8E%AF%E5%92%8CPython%E5%BE%AA%E7%8E%AF%E7%9A%84%E5%8C%BA%E5%88%AB%E3%80%91/"/>
+    <id>https://stephen-smj.tech/2023/02/01/%E3%80%90JAVA%E5%BE%AA%E7%8E%AF%E5%92%8CPython%E5%BE%AA%E7%8E%AF%E7%9A%84%E5%8C%BA%E5%88%AB%E3%80%91/</id>
     <published>2023-02-01T10:27:52.000Z</published>
     <updated>2023-03-03T08:05:01.195Z</updated>
     
@@ -242,14 +242,14 @@
     
     
     
-    <category term="JAVA" scheme="https://stephen-smj.github.io/tags/JAVA/"/>
+    <category term="JAVA" scheme="https://stephen-smj.tech/tags/JAVA/"/>
     
   </entry>
   
   <entry>
     <title>网站部署：使用Nginx部署vue项目到阿里云服务器</title>
-    <link href="https://stephen-smj.github.io/2022/11/10/%E7%BD%91%E7%AB%99%E9%83%A8%E7%BD%B2%EF%BC%9A%E4%BD%BF%E7%94%A8Nginx%E9%83%A8%E7%BD%B2vue%E9%A1%B9%E7%9B%AE%E5%88%B0%E9%98%BF%E9%87%8C%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
-    <id>https://stephen-smj.github.io/2022/11/10/%E7%BD%91%E7%AB%99%E9%83%A8%E7%BD%B2%EF%BC%9A%E4%BD%BF%E7%94%A8Nginx%E9%83%A8%E7%BD%B2vue%E9%A1%B9%E7%9B%AE%E5%88%B0%E9%98%BF%E9%87%8C%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/</id>
+    <link href="https://stephen-smj.tech/2022/11/10/%E7%BD%91%E7%AB%99%E9%83%A8%E7%BD%B2%EF%BC%9A%E4%BD%BF%E7%94%A8Nginx%E9%83%A8%E7%BD%B2vue%E9%A1%B9%E7%9B%AE%E5%88%B0%E9%98%BF%E9%87%8C%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <id>https://stephen-smj.tech/2022/11/10/%E7%BD%91%E7%AB%99%E9%83%A8%E7%BD%B2%EF%BC%9A%E4%BD%BF%E7%94%A8Nginx%E9%83%A8%E7%BD%B2vue%E9%A1%B9%E7%9B%AE%E5%88%B0%E9%98%BF%E9%87%8C%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/</id>
     <published>2022-11-10T05:32:39.000Z</published>
     <updated>2023-03-03T07:30:59.120Z</updated>
     
@@ -265,14 +265,14 @@
     
     
     
-    <category term="Back-end" scheme="https://stephen-smj.github.io/tags/Back-end/"/>
+    <category term="Back-end" scheme="https://stephen-smj.tech/tags/Back-end/"/>
     
   </entry>
   
   <entry>
     <title>Flask获取请求的几种方式</title>
-    <link href="https://stephen-smj.github.io/2022/11/01/Flask%E8%8E%B7%E5%8F%96%E8%AF%B7%E6%B1%82%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F/"/>
-    <id>https://stephen-smj.github.io/2022/11/01/Flask%E8%8E%B7%E5%8F%96%E8%AF%B7%E6%B1%82%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F/</id>
+    <link href="https://stephen-smj.tech/2022/11/01/Flask%E8%8E%B7%E5%8F%96%E8%AF%B7%E6%B1%82%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F/"/>
+    <id>https://stephen-smj.tech/2022/11/01/Flask%E8%8E%B7%E5%8F%96%E8%AF%B7%E6%B1%82%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F/</id>
     <published>2022-11-01T10:02:21.000Z</published>
     <updated>2023-03-03T07:30:59.124Z</updated>
     
@@ -288,14 +288,14 @@
     
     
     
-    <category term="Back-end" scheme="https://stephen-smj.github.io/tags/Back-end/"/>
+    <category term="Back-end" scheme="https://stephen-smj.tech/tags/Back-end/"/>
     
   </entry>
   
   <entry>
     <title>Pytorch模型推理详细步骤以及如何排查模型和参数字典对不上的问题：Missing key(s) in state_dict_ xxxx</title>
-    <link href="https://stephen-smj.github.io/2022/11/01/%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E8%AF%A6%E7%BB%86%E6%AD%A5%E9%AA%A4%E4%BB%A5%E5%8F%8A%E5%A6%82%E4%BD%95%E6%8E%92%E6%9F%A5%E6%A8%A1%E5%9E%8B%E5%92%8C%E5%8F%82%E6%95%B0%E5%AD%97%E5%85%B8%E5%AF%B9%E4%B8%8D%E4%B8%8A%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%9AMissing%20key(s)%20in%20state_dict_%20xxxx/"/>
-    <id>https://stephen-smj.github.io/2022/11/01/%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E8%AF%A6%E7%BB%86%E6%AD%A5%E9%AA%A4%E4%BB%A5%E5%8F%8A%E5%A6%82%E4%BD%95%E6%8E%92%E6%9F%A5%E6%A8%A1%E5%9E%8B%E5%92%8C%E5%8F%82%E6%95%B0%E5%AD%97%E5%85%B8%E5%AF%B9%E4%B8%8D%E4%B8%8A%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%9AMissing%20key(s)%20in%20state_dict_%20xxxx/</id>
+    <link href="https://stephen-smj.tech/2022/11/01/%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E8%AF%A6%E7%BB%86%E6%AD%A5%E9%AA%A4%E4%BB%A5%E5%8F%8A%E5%A6%82%E4%BD%95%E6%8E%92%E6%9F%A5%E6%A8%A1%E5%9E%8B%E5%92%8C%E5%8F%82%E6%95%B0%E5%AD%97%E5%85%B8%E5%AF%B9%E4%B8%8D%E4%B8%8A%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%9AMissing%20key(s)%20in%20state_dict_%20xxxx/"/>
+    <id>https://stephen-smj.tech/2022/11/01/%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E8%AF%A6%E7%BB%86%E6%AD%A5%E9%AA%A4%E4%BB%A5%E5%8F%8A%E5%A6%82%E4%BD%95%E6%8E%92%E6%9F%A5%E6%A8%A1%E5%9E%8B%E5%92%8C%E5%8F%82%E6%95%B0%E5%AD%97%E5%85%B8%E5%AF%B9%E4%B8%8D%E4%B8%8A%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%9AMissing%20key(s)%20in%20state_dict_%20xxxx/</id>
     <published>2022-11-01T06:07:19.000Z</published>
     <updated>2023-03-03T07:30:59.136Z</updated>
     
@@ -310,14 +310,14 @@
     
     
     
-    <category term="Deep learning" scheme="https://stephen-smj.github.io/tags/Deep-learning/"/>
+    <category term="Deep learning" scheme="https://stephen-smj.tech/tags/Deep-learning/"/>
     
   </entry>
   
   <entry>
     <title>手把手教你使用YOLOV5训练自己的目标检测数据集</title>
-    <link href="https://stephen-smj.github.io/2022/10/22/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8YOLOV5%E8%AE%AD%E7%BB%83%E8%87%AA%E5%B7%B1%E7%9A%84%E6%95%B0%E6%8D%AE%E9%9B%86/"/>
-    <id>https://stephen-smj.github.io/2022/10/22/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8YOLOV5%E8%AE%AD%E7%BB%83%E8%87%AA%E5%B7%B1%E7%9A%84%E6%95%B0%E6%8D%AE%E9%9B%86/</id>
+    <link href="https://stephen-smj.tech/2022/10/22/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8YOLOV5%E8%AE%AD%E7%BB%83%E8%87%AA%E5%B7%B1%E7%9A%84%E6%95%B0%E6%8D%AE%E9%9B%86/"/>
+    <id>https://stephen-smj.tech/2022/10/22/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8YOLOV5%E8%AE%AD%E7%BB%83%E8%87%AA%E5%B7%B1%E7%9A%84%E6%95%B0%E6%8D%AE%E9%9B%86/</id>
     <published>2022-10-22T11:13:50.000Z</published>
     <updated>2023-02-10T10:49:54.501Z</updated>
     
@@ -332,14 +332,14 @@
     
     
     
-    <category term="Deep learning" scheme="https://stephen-smj.github.io/tags/Deep-learning/"/>
+    <category term="Deep learning" scheme="https://stephen-smj.tech/tags/Deep-learning/"/>
     
   </entry>
   
   <entry>
     <title>Wandb安装与配置</title>
-    <link href="https://stephen-smj.github.io/2022/10/22/Wandb%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
-    <id>https://stephen-smj.github.io/2022/10/22/Wandb%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</id>
+    <link href="https://stephen-smj.tech/2022/10/22/Wandb%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
+    <id>https://stephen-smj.tech/2022/10/22/Wandb%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</id>
     <published>2022-10-22T10:27:52.000Z</published>
     <updated>2023-03-03T07:30:59.104Z</updated>
     
@@ -354,14 +354,14 @@
     
     
     
-    <category term="Deep learning" scheme="https://stephen-smj.github.io/tags/Deep-learning/"/>
+    <category term="Deep learning" scheme="https://stephen-smj.tech/tags/Deep-learning/"/>
     
   </entry>
   
   <entry>
     <title>pip安装与conda安装的区别</title>
-    <link href="https://stephen-smj.github.io/2022/09/15/pip%E5%AE%89%E8%A3%85%E5%88%A0%E9%99%A4%E4%B8%8Econda%E5%AE%89%E8%A3%85%E5%88%A0%E9%99%A4%E7%9A%84%E5%8C%BA%E5%88%AB/"/>
-    <id>https://stephen-smj.github.io/2022/09/15/pip%E5%AE%89%E8%A3%85%E5%88%A0%E9%99%A4%E4%B8%8Econda%E5%AE%89%E8%A3%85%E5%88%A0%E9%99%A4%E7%9A%84%E5%8C%BA%E5%88%AB/</id>
+    <link href="https://stephen-smj.tech/2022/09/15/pip%E5%AE%89%E8%A3%85%E5%88%A0%E9%99%A4%E4%B8%8Econda%E5%AE%89%E8%A3%85%E5%88%A0%E9%99%A4%E7%9A%84%E5%8C%BA%E5%88%AB/"/>
+    <id>https://stephen-smj.tech/2022/09/15/pip%E5%AE%89%E8%A3%85%E5%88%A0%E9%99%A4%E4%B8%8Econda%E5%AE%89%E8%A3%85%E5%88%A0%E9%99%A4%E7%9A%84%E5%8C%BA%E5%88%AB/</id>
     <published>2022-09-15T09:04:13.000Z</published>
     <updated>2023-03-03T07:30:59.066Z</updated>
     
@@ -376,14 +376,14 @@
     
     
     
-    <category term="Python" scheme="https://stephen-smj.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://stephen-smj.tech/tags/Python/"/>
     
   </entry>
   
   <entry>
     <title>Sklearn中的confusion_matrix排列方式与计算</title>
-    <link href="https://stephen-smj.github.io/2022/05/12/Sklearn%E4%B8%AD%E7%9A%84confusion_matrix%E6%8E%92%E5%88%97%E6%96%B9%E5%BC%8F%E4%B8%8E%E8%AE%A1%E7%AE%97/"/>
-    <id>https://stephen-smj.github.io/2022/05/12/Sklearn%E4%B8%AD%E7%9A%84confusion_matrix%E6%8E%92%E5%88%97%E6%96%B9%E5%BC%8F%E4%B8%8E%E8%AE%A1%E7%AE%97/</id>
+    <link href="https://stephen-smj.tech/2022/05/12/Sklearn%E4%B8%AD%E7%9A%84confusion_matrix%E6%8E%92%E5%88%97%E6%96%B9%E5%BC%8F%E4%B8%8E%E8%AE%A1%E7%AE%97/"/>
+    <id>https://stephen-smj.tech/2022/05/12/Sklearn%E4%B8%AD%E7%9A%84confusion_matrix%E6%8E%92%E5%88%97%E6%96%B9%E5%BC%8F%E4%B8%8E%E8%AE%A1%E7%AE%97/</id>
     <published>2022-05-12T08:44:08.000Z</published>
     <updated>2023-03-03T07:30:59.068Z</updated>
     
@@ -398,14 +398,14 @@
     
     
     
-    <category term="Machine learning" scheme="https://stephen-smj.github.io/tags/Machine-learning/"/>
+    <category term="Machine learning" scheme="https://stephen-smj.tech/tags/Machine-learning/"/>
     
   </entry>
   
   <entry>
     <title>Sklearn网格搜索GridSearchCV中的坑</title>
-    <link href="https://stephen-smj.github.io/2021/10/01/%E7%BD%91%E6%A0%BC%E6%90%9C%E7%B4%A2GridSearchCV%E4%B8%AD%E7%9A%84%E5%9D%91/"/>
-    <id>https://stephen-smj.github.io/2021/10/01/%E7%BD%91%E6%A0%BC%E6%90%9C%E7%B4%A2GridSearchCV%E4%B8%AD%E7%9A%84%E5%9D%91/</id>
+    <link href="https://stephen-smj.tech/2021/10/01/%E7%BD%91%E6%A0%BC%E6%90%9C%E7%B4%A2GridSearchCV%E4%B8%AD%E7%9A%84%E5%9D%91/"/>
+    <id>https://stephen-smj.tech/2021/10/01/%E7%BD%91%E6%A0%BC%E6%90%9C%E7%B4%A2GridSearchCV%E4%B8%AD%E7%9A%84%E5%9D%91/</id>
     <published>2021-10-01T10:10:41.000Z</published>
     <updated>2023-03-03T07:30:59.095Z</updated>
     
@@ -420,14 +420,14 @@
     
     
     
-    <category term="Machine learning" scheme="https://stephen-smj.github.io/tags/Machine-learning/"/>
+    <category term="Machine learning" scheme="https://stephen-smj.tech/tags/Machine-learning/"/>
     
   </entry>
   
   <entry>
     <title>Pytorch tensor类型转换中的深坑</title>
-    <link href="https://stephen-smj.github.io/2021/08/12/pytorch%20tensor%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2%E4%B8%AD%E7%9A%84%E6%B7%B1%E5%9D%91/"/>
-    <id>https://stephen-smj.github.io/2021/08/12/pytorch%20tensor%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2%E4%B8%AD%E7%9A%84%E6%B7%B1%E5%9D%91/</id>
+    <link href="https://stephen-smj.tech/2021/08/12/pytorch%20tensor%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2%E4%B8%AD%E7%9A%84%E6%B7%B1%E5%9D%91/"/>
+    <id>https://stephen-smj.tech/2021/08/12/pytorch%20tensor%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2%E4%B8%AD%E7%9A%84%E6%B7%B1%E5%9D%91/</id>
     <published>2021-08-12T10:41:12.000Z</published>
     <updated>2023-03-03T07:30:59.076Z</updated>
     
@@ -442,14 +442,14 @@
     
     
     
-    <category term="Deep learning" scheme="https://stephen-smj.github.io/tags/Deep-learning/"/>
+    <category term="Deep learning" scheme="https://stephen-smj.tech/tags/Deep-learning/"/>
     
   </entry>
   
   <entry>
     <title>CSS Button实现扁平化样式</title>
-    <link href="https://stephen-smj.github.io/2021/04/27/css%20button%E6%89%81%E5%B9%B3%E5%8C%96%E6%A0%B7%E5%BC%8F/"/>
-    <id>https://stephen-smj.github.io/2021/04/27/css%20button%E6%89%81%E5%B9%B3%E5%8C%96%E6%A0%B7%E5%BC%8F/</id>
+    <link href="https://stephen-smj.tech/2021/04/27/css%20button%E6%89%81%E5%B9%B3%E5%8C%96%E6%A0%B7%E5%BC%8F/"/>
+    <id>https://stephen-smj.tech/2021/04/27/css%20button%E6%89%81%E5%B9%B3%E5%8C%96%E6%A0%B7%E5%BC%8F/</id>
     <published>2021-04-27T01:28:01.000Z</published>
     <updated>2023-03-03T07:30:59.121Z</updated>
     
@@ -466,7 +466,7 @@
     
     
     
-    <category term="Front-end" scheme="https://stephen-smj.github.io/tags/Front-end/"/>
+    <category term="Front-end" scheme="https://stephen-smj.tech/tags/Front-end/"/>
     
   </entry>
   
